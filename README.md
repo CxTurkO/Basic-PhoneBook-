@@ -97,11 +97,4 @@ Rehber dosyadan yüklendi: rehber.txt
 
 ---
 
-## Katkıda Bulunma
-Katkıda bulunmak istiyorsanız, lütfen bir pull request oluşturun veya bir issue açın.
-
----
-
-## Lisans
-Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
